@@ -1,9 +1,4 @@
-namespace GitHup
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
+///Speralni teskari qilib jo'natiyapman 
             int n = 7;
             int[,] massiv = new int[n, n];
             int qiymat = 1;
@@ -32,6 +27,3 @@ namespace GitHup
                 }
                 Console.WriteLine();
             }
-        }
-    }
-}
