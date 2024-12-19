@@ -1,4 +1,4 @@
-///Speralni teskari qilib jo'natiyapman 
+//2-speral teskari aylansin
             int n = 7;
             int[,] massiv = new int[n, n];
             int qiymat = 1;
